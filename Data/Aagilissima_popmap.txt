@@ -1,0 +1,12 @@
+Bet_04	Baetic
+Bet_01	Baetic	
+Bet_02	Baetic	
+Bet_03	Baetic	
+Cat_01	Ebro
+Fzz_01	West	
+Gal_01	West
+Gal_02	West	
+Gal_03	West	
+Gal_04	West	
+Jac_01	Ebro	
+Jac_02	Ebro	

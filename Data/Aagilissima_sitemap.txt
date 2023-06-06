@@ -1,0 +1,12 @@
+Bet_04	Baetic
+Bet_01	Baetic	
+Bet_02	Baetic	
+Bet_03	Baetic	
+Cat_01	Catalonia
+Fzz_01	FerreiraZezere	
+Gal_01	Galicia
+Gal_02	Galicia	
+Gal_03	Galicia	
+Gal_04	Galicia	
+Jac_01	Jaca	
+Jac_02	Jaca	
