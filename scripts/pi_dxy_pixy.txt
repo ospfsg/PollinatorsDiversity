@@ -1,0 +1,9 @@
+###pixy
+
+#command line
+
+bgzip -c file.vcf > file.vcf.gz
+tabix -p vcf file.vcf.gz
+
+
+pixy --stats pi dxy --vcf data/vcf/ag1000/chrX_36Ag_allsites.vcf.gz --populations Ag1000_sampleIDs_popfile.txt --window_size 10000 --n_cores 6 --bypass_invariant_check yes
